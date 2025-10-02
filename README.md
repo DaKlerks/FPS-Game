@@ -11,10 +11,10 @@ The full contents of this exercise are as follows:
  5. The players weapon must have bullet spread
  6. If the player hits the enviroment an impact particle must be visible
  7. The particles must be reusable via Object Pooling
- 8. after hitting an enemy multiple times it explodes
+ 8. After hitting an enemy multiple times it explodes
 
 The exercise also encouraged us to get creative, though this wasn't necessary to complete the exercise.
-besides doing what was mandatory for this exercise, i also modeled and animated a simple pistol and i made some basic assets to add to the enviroment.
+Besides doing what was mandatory for this exercise, i also modeled and animated a simple pistol and i made some basic assets to add to the enviroment.
 
 ## Contact
-Dim Klerks - [@Linkedin](https://www.linkedin.com/in/dim-klerks-656673337/) - dimklerks@ziggo.nl
+Dim Klerks - [@Linkedin](https://www.linkedin.com/in/dim-klerks-656673337/) - Dimklerks@ziggo.nl
